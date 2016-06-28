@@ -23,3 +23,6 @@ def Greeting():
 for i in range(0,10):
 	Greeting()
 	print Greeting.count
+
+
+
